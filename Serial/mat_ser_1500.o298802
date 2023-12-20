@@ -1,0 +1,602 @@
+Loading openmpi/gcc-8.2.0/4.0.1
+  Loading requirement: gcc/8.2.0
+1 1
+Serial Execution Time: 7.82e-07 seconds
+6 6
+Serial Execution Time: 1.041e-05 seconds
+11 11
+Serial Execution Time: 6.1752e-05 seconds
+16 16
+Serial Execution Time: 0.000181566 seconds
+21 21
+Serial Execution Time: 0.000396729 seconds
+26 26
+Serial Execution Time: 0.00075878 seconds
+31 31
+Serial Execution Time: 0.00129129 seconds
+36 36
+Serial Execution Time: 0.00196476 seconds
+41 41
+Serial Execution Time: 0.00291236 seconds
+46 46
+Serial Execution Time: 0.00405288 seconds
+51 51
+Serial Execution Time: 0.00455268 seconds
+56 56
+Serial Execution Time: 0.00485165 seconds
+61 61
+Serial Execution Time: 0.00545756 seconds
+66 66
+Serial Execution Time: 0.00517145 seconds
+71 71
+Serial Execution Time: 0.00630645 seconds
+76 76
+Serial Execution Time: 0.00754154 seconds
+81 81
+Serial Execution Time: 0.00915624 seconds
+86 86
+Serial Execution Time: 0.0109424 seconds
+91 91
+Serial Execution Time: 0.012893 seconds
+96 96
+Serial Execution Time: 0.0151851 seconds
+101 101
+Serial Execution Time: 0.0176908 seconds
+106 106
+Serial Execution Time: 0.0205321 seconds
+111 111
+Serial Execution Time: 0.0234065 seconds
+116 116
+Serial Execution Time: 0.0266392 seconds
+121 121
+Serial Execution Time: 0.0302739 seconds
+126 126
+Serial Execution Time: 0.0348622 seconds
+131 131
+Serial Execution Time: 0.0384005 seconds
+136 136
+Serial Execution Time: 0.0430174 seconds
+141 141
+Serial Execution Time: 0.0478681 seconds
+146 146
+Serial Execution Time: 0.0529706 seconds
+151 151
+Serial Execution Time: 0.0588553 seconds
+156 156
+Serial Execution Time: 0.0654854 seconds
+161 161
+Serial Execution Time: 0.0714851 seconds
+166 166
+Serial Execution Time: 0.0780895 seconds
+171 171
+Serial Execution Time: 0.0852754 seconds
+176 176
+Serial Execution Time: 0.0933129 seconds
+181 181
+Serial Execution Time: 0.101277 seconds
+186 186
+Serial Execution Time: 0.109863 seconds
+191 191
+Serial Execution Time: 0.119403 seconds
+196 196
+Serial Execution Time: 0.128697 seconds
+201 201
+Serial Execution Time: 0.139359 seconds
+206 206
+Serial Execution Time: 0.149913 seconds
+211 211
+Serial Execution Time: 0.161698 seconds
+216 216
+Serial Execution Time: 0.173608 seconds
+221 221
+Serial Execution Time: 0.187076 seconds
+226 226
+Serial Execution Time: 0.199346 seconds
+231 231
+Serial Execution Time: 0.212493 seconds
+236 236
+Serial Execution Time: 0.227163 seconds
+241 241
+Serial Execution Time: 0.24139 seconds
+246 246
+Serial Execution Time: 0.256584 seconds
+251 251
+Serial Execution Time: 0.279225 seconds
+256 256
+Serial Execution Time: 0.290013 seconds
+261 261
+Serial Execution Time: 0.308036 seconds
+266 266
+Serial Execution Time: 0.325705 seconds
+271 271
+Serial Execution Time: 0.346233 seconds
+276 276
+Serial Execution Time: 0.367269 seconds
+281 281
+Serial Execution Time: 0.38865 seconds
+286 286
+Serial Execution Time: 0.435012 seconds
+291 291
+Serial Execution Time: 0.431465 seconds
+296 296
+Serial Execution Time: 0.455446 seconds
+301 301
+Serial Execution Time: 0.478401 seconds
+306 306
+Serial Execution Time: 0.50741 seconds
+311 311
+Serial Execution Time: 0.531321 seconds
+316 316
+Serial Execution Time: 0.590089 seconds
+321 321
+Serial Execution Time: 0.586125 seconds
+326 326
+Serial Execution Time: 0.617129 seconds
+331 331
+Serial Execution Time: 0.643946 seconds
+336 336
+Serial Execution Time: 0.695771 seconds
+341 341
+Serial Execution Time: 0.719028 seconds
+346 346
+Serial Execution Time: 0.757978 seconds
+351 351
+Serial Execution Time: 0.806266 seconds
+356 356
+Serial Execution Time: 0.85217 seconds
+361 361
+Serial Execution Time: 0.88934 seconds
+366 366
+Serial Execution Time: 0.935763 seconds
+371 371
+Serial Execution Time: 0.97467 seconds
+376 376
+Serial Execution Time: 1.01733 seconds
+381 381
+Serial Execution Time: 1.03879 seconds
+386 386
+Serial Execution Time: 1.1082 seconds
+391 391
+Serial Execution Time: 1.15723 seconds
+396 396
+Serial Execution Time: 1.18785 seconds
+401 401
+Serial Execution Time: 1.25119 seconds
+406 406
+Serial Execution Time: 1.28514 seconds
+411 411
+Serial Execution Time: 1.32488 seconds
+416 416
+Serial Execution Time: 1.38526 seconds
+421 421
+Serial Execution Time: 1.4434 seconds
+426 426
+Serial Execution Time: 1.50538 seconds
+431 431
+Serial Execution Time: 1.55054 seconds
+436 436
+Serial Execution Time: 1.60082 seconds
+441 441
+Serial Execution Time: 1.66685 seconds
+446 446
+Serial Execution Time: 1.67665 seconds
+451 451
+Serial Execution Time: 1.79193 seconds
+456 456
+Serial Execution Time: 1.85509 seconds
+461 461
+Serial Execution Time: 1.91772 seconds
+466 466
+Serial Execution Time: 1.98187 seconds
+471 471
+Serial Execution Time: 2.05034 seconds
+476 476
+Serial Execution Time: 2.06859 seconds
+481 481
+Serial Execution Time: 2.1895 seconds
+486 486
+Serial Execution Time: 2.26171 seconds
+491 491
+Serial Execution Time: 2.33066 seconds
+496 496
+Serial Execution Time: 2.4013 seconds
+501 501
+Serial Execution Time: 2.47976 seconds
+506 506
+Serial Execution Time: 2.5545 seconds
+511 511
+Serial Execution Time: 2.64555 seconds
+516 516
+Serial Execution Time: 2.72521 seconds
+521 521
+Serial Execution Time: 2.81611 seconds
+526 526
+Serial Execution Time: 2.89194 seconds
+531 531
+Serial Execution Time: 2.98741 seconds
+536 536
+Serial Execution Time: 3.08142 seconds
+541 541
+Serial Execution Time: 3.08408 seconds
+546 546
+Serial Execution Time: 3.26529 seconds
+551 551
+Serial Execution Time: 3.3683 seconds
+556 556
+Serial Execution Time: 3.44025 seconds
+561 561
+Serial Execution Time: 3.55983 seconds
+566 566
+Serial Execution Time: 3.65668 seconds
+571 571
+Serial Execution Time: 3.60114 seconds
+576 576
+Serial Execution Time: 3.87011 seconds
+581 581
+Serial Execution Time: 3.97498 seconds
+586 586
+Serial Execution Time: 4.08146 seconds
+591 591
+Serial Execution Time: 4.1967 seconds
+596 596
+Serial Execution Time: 4.31646 seconds
+601 601
+Serial Execution Time: 4.43203 seconds
+606 606
+Serial Execution Time: 4.37065 seconds
+611 611
+Serial Execution Time: 4.6774 seconds
+616 616
+Serial Execution Time: 4.77671 seconds
+621 621
+Serial Execution Time: 4.83733 seconds
+626 626
+Serial Execution Time: 5.0162 seconds
+631 631
+Serial Execution Time: 5.14175 seconds
+636 636
+Serial Execution Time: 4.99846 seconds
+641 641
+Serial Execution Time: 5.39256 seconds
+646 646
+Serial Execution Time: 5.54006 seconds
+651 651
+Serial Execution Time: 5.58088 seconds
+656 656
+Serial Execution Time: 5.78341 seconds
+661 661
+Serial Execution Time: 5.94515 seconds
+666 666
+Serial Execution Time: 6.05653 seconds
+671 671
+Serial Execution Time: 6.20173 seconds
+676 676
+Serial Execution Time: 6.36581 seconds
+681 681
+Serial Execution Time: 6.48406 seconds
+686 686
+Serial Execution Time: 6.53874 seconds
+691 691
+Serial Execution Time: 6.81365 seconds
+696 696
+Serial Execution Time: 6.93354 seconds
+701 701
+Serial Execution Time: 6.7323 seconds
+706 706
+Serial Execution Time: 7.23976 seconds
+711 711
+Serial Execution Time: 7.39723 seconds
+716 716
+Serial Execution Time: 7.45575 seconds
+721 721
+Serial Execution Time: 7.71957 seconds
+726 726
+Serial Execution Time: 7.9202 seconds
+731 731
+Serial Execution Time: 7.74148 seconds
+736 736
+Serial Execution Time: 8.22262 seconds
+741 741
+Serial Execution Time: 8.43563 seconds
+746 746
+Serial Execution Time: 8.56453 seconds
+751 751
+Serial Execution Time: 8.73746 seconds
+756 756
+Serial Execution Time: 8.95826 seconds
+761 761
+Serial Execution Time: 9.10443 seconds
+766 766
+Serial Execution Time: 9.31003 seconds
+771 771
+Serial Execution Time: 9.52309 seconds
+776 776
+Serial Execution Time: 9.65789 seconds
+781 781
+Serial Execution Time: 9.69654 seconds
+786 786
+Serial Execution Time: 10.0344 seconds
+791 791
+Serial Execution Time: 10.2259 seconds
+796 796
+Serial Execution Time: 10.0256 seconds
+801 801
+Serial Execution Time: 10.64 seconds
+806 806
+Serial Execution Time: 10.8999 seconds
+811 811
+Serial Execution Time: 10.8791 seconds
+816 816
+Serial Execution Time: 11.2563 seconds
+821 821
+Serial Execution Time: 11.5265 seconds
+826 826
+Serial Execution Time: 11.6826 seconds
+831 831
+Serial Execution Time: 11.9096 seconds
+836 836
+Serial Execution Time: 12.2022 seconds
+841 841
+Serial Execution Time: 12.3513 seconds
+846 846
+Serial Execution Time: 12.4027 seconds
+851 851
+Serial Execution Time: 12.8792 seconds
+856 856
+Serial Execution Time: 13.0336 seconds
+861 861
+Serial Execution Time: 12.7483 seconds
+866 866
+Serial Execution Time: 13.5034 seconds
+871 871
+Serial Execution Time: 13.7469 seconds
+876 876
+Serial Execution Time: 13.7908 seconds
+881 881
+Serial Execution Time: 14.229 seconds
+886 886
+Serial Execution Time: 14.5568 seconds
+891 891
+Serial Execution Time: 13.9779 seconds
+896 896
+Serial Execution Time: 14.9494 seconds
+901 901
+Serial Execution Time: 15.3336 seconds
+906 906
+Serial Execution Time: 15.5116 seconds
+911 911
+Serial Execution Time: 15.7544 seconds
+916 916
+Serial Execution Time: 16.1247 seconds
+921 921
+Serial Execution Time: 16.2682 seconds
+926 926
+Serial Execution Time: 15.9166 seconds
+931 931
+Serial Execution Time: 16.9371 seconds
+936 936
+Serial Execution Time: 17.123 seconds
+941 941
+Serial Execution Time: 17.1556 seconds
+946 946
+Serial Execution Time: 17.6799 seconds
+951 951
+Serial Execution Time: 17.9698 seconds
+956 956
+Serial Execution Time: 17.3267 seconds
+961 961
+Serial Execution Time: 18.527 seconds
+966 966
+Serial Execution Time: 18.9436 seconds
+971 971
+Serial Execution Time: 18.8688 seconds
+976 976
+Serial Execution Time: 19.4557 seconds
+981 981
+Serial Execution Time: 19.8869 seconds
+986 986
+Serial Execution Time: 20.0834 seconds
+991 991
+Serial Execution Time: 20.4005 seconds
+996 996
+Serial Execution Time: 20.8356 seconds
+1001 1001
+Serial Execution Time: 21.0368 seconds
+1006 1006
+Serial Execution Time: 21.0422 seconds
+1011 1011
+Serial Execution Time: 21.8073 seconds
+1016 1016
+Serial Execution Time: 22.0199 seconds
+1021 1021
+Serial Execution Time: 29.2538 seconds
+1026 1026
+Serial Execution Time: 22.6761 seconds
+1031 1031
+Serial Execution Time: 23.0085 seconds
+1036 1036
+Serial Execution Time: 23.0367 seconds
+1041 1041
+Serial Execution Time: 23.6902 seconds
+1046 1046
+Serial Execution Time: 24.1602 seconds
+1051 1051
+Serial Execution Time: 23.4014 seconds
+1056 1056
+Serial Execution Time: 24.7229 seconds
+1061 1061
+Serial Execution Time: 25.2254 seconds
+1066 1066
+Serial Execution Time: 25.4432 seconds
+1071 1071
+Serial Execution Time: 25.7825 seconds
+1076 1076
+Serial Execution Time: 26.2843 seconds
+1081 1081
+Serial Execution Time: 26.5039 seconds
+1086 1086
+Serial Execution Time: 25.575 seconds
+1091 1091
+Serial Execution Time: 27.4066 seconds
+1096 1096
+Serial Execution Time: 27.6457 seconds
+1101 1101
+Serial Execution Time: 27.6033 seconds
+1106 1106
+Serial Execution Time: 28.3742 seconds
+1111 1111
+Serial Execution Time: 28.774 seconds
+1116 1116
+Serial Execution Time: 28.0758 seconds
+1121 1121
+Serial Execution Time: 29.5689 seconds
+1126 1126
+Serial Execution Time: 30.1519 seconds
+1131 1131
+Serial Execution Time: 29.9148 seconds
+1136 1136
+Serial Execution Time: 30.7563 seconds
+1141 1141
+Serial Execution Time: 31.3601 seconds
+1146 1146
+Serial Execution Time: 31.5951 seconds
+1151 1151
+Serial Execution Time: 32.0128 seconds
+1156 1156
+Serial Execution Time: 32.5933 seconds
+1161 1161
+Serial Execution Time: 32.8532 seconds
+1166 1166
+Serial Execution Time: 32.8 seconds
+1171 1171
+Serial Execution Time: 33.8769 seconds
+1176 1176
+Serial Execution Time: 34.1251 seconds
+1181 1181
+Serial Execution Time: 32.2929 seconds
+1186 1186
+Serial Execution Time: 35.0352 seconds
+1191 1191
+Serial Execution Time: 35.4835 seconds
+1196 1196
+Serial Execution Time: 35.449 seconds
+1201 1201
+Serial Execution Time: 36.382 seconds
+1206 1206
+Serial Execution Time: 37.0394 seconds
+1211 1211
+Serial Execution Time: 35.913 seconds
+1216 1216
+Serial Execution Time: 37.771 seconds
+1221 1221
+Serial Execution Time: 38.4701 seconds
+1226 1226
+Serial Execution Time: 38.7057 seconds
+1231 1231
+Serial Execution Time: 39.1989 seconds
+1236 1236
+Serial Execution Time: 39.9289 seconds
+1241 1241
+Serial Execution Time: 40.156 seconds
+1246 1246
+Serial Execution Time: 39.5742 seconds
+1251 1251
+Serial Execution Time: 41.4569 seconds
+1256 1256
+Serial Execution Time: 41.6447 seconds
+1261 1261
+Serial Execution Time: 41.8221 seconds
+1266 1266
+Serial Execution Time: 42.6603 seconds
+1271 1271
+Serial Execution Time: 43.589 seconds
+1276 1276
+Serial Execution Time: 55.0586 seconds
+1281 1281
+Serial Execution Time: 44.4508 seconds
+1286 1286
+Serial Execution Time: 45.7386 seconds
+1291 1291
+Serial Execution Time: 45.073 seconds
+1296 1296
+Serial Execution Time: 46.8008 seconds
+1301 1301
+Serial Execution Time: 46.664 seconds
+1306 1306
+Serial Execution Time: 48.9958 seconds
+1311 1311
+Serial Execution Time: 47.4965 seconds
+1316 1316
+Serial Execution Time: 50.0035 seconds
+1321 1321
+Serial Execution Time: 48.5785 seconds
+1326 1326
+Serial Execution Time: 50.0616 seconds
+1331 1331
+Serial Execution Time: 50.127 seconds
+1336 1336
+Serial Execution Time: 51.6449 seconds
+1341 1341
+Serial Execution Time: 49.9758 seconds
+1346 1346
+Serial Execution Time: 54.6181 seconds
+1351 1351
+Serial Execution Time: 52.4778 seconds
+1356 1356
+Serial Execution Time: 51.8165 seconds
+1361 1361
+Serial Execution Time: 53.5781 seconds
+1366 1366
+Serial Execution Time: 54.1347 seconds
+1371 1371
+Serial Execution Time: 57.3209 seconds
+1376 1376
+Serial Execution Time: 54.9315 seconds
+1381 1381
+Serial Execution Time: 58.3697 seconds
+1386 1386
+Serial Execution Time: 56.8399 seconds
+1391 1391
+Serial Execution Time: 57.7706 seconds
+1396 1396
+Serial Execution Time: 58.895 seconds
+1401 1401
+Serial Execution Time: 59.6219 seconds
+1406 1406
+Serial Execution Time: 61.5713 seconds
+1411 1411
+Serial Execution Time: 60.9483 seconds
+1416 1416
+Serial Execution Time: 62.7373 seconds
+1421 1421
+Serial Execution Time: 60.7847 seconds
+1426 1426
+Serial Execution Time: 64.3587 seconds
+1431 1431
+Serial Execution Time: 65.2225 seconds
+1436 1436
+Serial Execution Time: 62.5089 seconds
+1441 1441
+Serial Execution Time: 66.7476 seconds
+1446 1446
+Serial Execution Time: 65.8296 seconds
+1451 1451
+Serial Execution Time: 64.8081 seconds
+1456 1456
+Serial Execution Time: 68.3927 seconds
+1461 1461
+Serial Execution Time: 68.4772 seconds
+1466 1466
+Serial Execution Time: 70.3824 seconds
+1471 1471
+Serial Execution Time: 71.3597 seconds
+1476 1476
+Serial Execution Time: 72.0277 seconds
+1481 1481
+Serial Execution Time: 73.3664 seconds
+1486 1486
+Serial Execution Time: 71.7255 seconds
+1491 1491
+Serial Execution Time: 72.8624 seconds
+1496 1496
+Serial Execution Time: 73.3322 seconds
