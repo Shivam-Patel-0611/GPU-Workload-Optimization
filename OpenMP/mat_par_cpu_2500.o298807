@@ -1,0 +1,1002 @@
+Loading openmpi/gcc-8.2.0/4.0.1
+  Loading requirement: gcc/8.2.0
+1 1
+OpenMP Execution Time: 5.96e-07 seconds
+6 6
+OpenMP Execution Time: 1.0509e-05 seconds
+11 11
+OpenMP Execution Time: 7.7007e-05 seconds
+16 16
+OpenMP Execution Time: 0.000188526 seconds
+21 21
+OpenMP Execution Time: 0.00041455 seconds
+26 26
+OpenMP Execution Time: 0.000795763 seconds
+31 31
+OpenMP Execution Time: 0.00133179 seconds
+36 36
+OpenMP Execution Time: 0.00208038 seconds
+41 41
+OpenMP Execution Time: 0.00302496 seconds
+46 46
+OpenMP Execution Time: 0.00311867 seconds
+51 51
+OpenMP Execution Time: 0.00387396 seconds
+56 56
+OpenMP Execution Time: 0.00445425 seconds
+61 61
+OpenMP Execution Time: 0.00429703 seconds
+66 66
+OpenMP Execution Time: 0.00537228 seconds
+71 71
+OpenMP Execution Time: 0.00647131 seconds
+76 76
+OpenMP Execution Time: 0.00792253 seconds
+81 81
+OpenMP Execution Time: 0.00962754 seconds
+86 86
+OpenMP Execution Time: 0.0114543 seconds
+91 91
+OpenMP Execution Time: 0.0136084 seconds
+96 96
+OpenMP Execution Time: 0.0159532 seconds
+101 101
+OpenMP Execution Time: 0.0186239 seconds
+106 106
+OpenMP Execution Time: 0.0213588 seconds
+111 111
+OpenMP Execution Time: 0.0245735 seconds
+116 116
+OpenMP Execution Time: 0.0281176 seconds
+121 121
+OpenMP Execution Time: 0.032044 seconds
+126 126
+OpenMP Execution Time: 0.0369328 seconds
+131 131
+OpenMP Execution Time: 0.0404047 seconds
+136 136
+OpenMP Execution Time: 0.0451507 seconds
+141 141
+OpenMP Execution Time: 0.0502588 seconds
+146 146
+OpenMP Execution Time: 0.0558358 seconds
+151 151
+OpenMP Execution Time: 0.06175 seconds
+156 156
+OpenMP Execution Time: 0.068242 seconds
+161 161
+OpenMP Execution Time: 0.0750351 seconds
+166 166
+OpenMP Execution Time: 0.0824581 seconds
+171 171
+OpenMP Execution Time: 0.0906117 seconds
+176 176
+OpenMP Execution Time: 0.0986806 seconds
+181 181
+OpenMP Execution Time: 0.10761 seconds
+186 186
+OpenMP Execution Time: 0.117384 seconds
+191 191
+OpenMP Execution Time: 0.133931 seconds
+196 196
+OpenMP Execution Time: 0.139249 seconds
+201 201
+OpenMP Execution Time: 0.150985 seconds
+206 206
+OpenMP Execution Time: 0.168483 seconds
+211 211
+OpenMP Execution Time: 0.175024 seconds
+216 216
+OpenMP Execution Time: 0.189205 seconds
+221 221
+OpenMP Execution Time: 0.203396 seconds
+226 226
+OpenMP Execution Time: 0.218135 seconds
+231 231
+OpenMP Execution Time: 0.232717 seconds
+236 236
+OpenMP Execution Time: 0.248902 seconds
+241 241
+OpenMP Execution Time: 0.263785 seconds
+246 246
+OpenMP Execution Time: 0.279807 seconds
+251 251
+OpenMP Execution Time: 0.301436 seconds
+256 256
+OpenMP Execution Time: 0.31475 seconds
+261 261
+OpenMP Execution Time: 0.339899 seconds
+266 266
+OpenMP Execution Time: 0.356811 seconds
+271 271
+OpenMP Execution Time: 0.394359 seconds
+276 276
+OpenMP Execution Time: 0.399007 seconds
+281 281
+OpenMP Execution Time: 0.420247 seconds
+286 286
+OpenMP Execution Time: 0.46168 seconds
+291 291
+OpenMP Execution Time: 0.466684 seconds
+296 296
+OpenMP Execution Time: 0.490292 seconds
+301 301
+OpenMP Execution Time: 0.51784 seconds
+306 306
+OpenMP Execution Time: 0.548022 seconds
+311 311
+OpenMP Execution Time: 0.566731 seconds
+316 316
+OpenMP Execution Time: 0.61125 seconds
+321 321
+OpenMP Execution Time: 0.640926 seconds
+326 326
+OpenMP Execution Time: 0.667285 seconds
+331 331
+OpenMP Execution Time: 0.708306 seconds
+336 336
+OpenMP Execution Time: 0.752751 seconds
+341 341
+OpenMP Execution Time: 0.796442 seconds
+346 346
+OpenMP Execution Time: 0.832622 seconds
+351 351
+OpenMP Execution Time: 0.878465 seconds
+356 356
+OpenMP Execution Time: 0.91798 seconds
+361 361
+OpenMP Execution Time: 0.966177 seconds
+366 366
+OpenMP Execution Time: 1.0094 seconds
+371 371
+OpenMP Execution Time: 1.05814 seconds
+376 376
+OpenMP Execution Time: 1.11725 seconds
+381 381
+OpenMP Execution Time: 1.17393 seconds
+386 386
+OpenMP Execution Time: 1.2272 seconds
+391 391
+OpenMP Execution Time: 1.25769 seconds
+396 396
+OpenMP Execution Time: 1.31656 seconds
+401 401
+OpenMP Execution Time: 1.38791 seconds
+406 406
+OpenMP Execution Time: 1.41879 seconds
+411 411
+OpenMP Execution Time: 1.50932 seconds
+416 416
+OpenMP Execution Time: 1.56994 seconds
+421 421
+OpenMP Execution Time: 1.62818 seconds
+426 426
+OpenMP Execution Time: 1.70282 seconds
+431 431
+OpenMP Execution Time: 1.69078 seconds
+436 436
+OpenMP Execution Time: 1.82229 seconds
+441 441
+OpenMP Execution Time: 1.88614 seconds
+446 446
+OpenMP Execution Time: 1.85159 seconds
+451 451
+OpenMP Execution Time: 2.04028 seconds
+456 456
+OpenMP Execution Time: 2.09299 seconds
+461 461
+OpenMP Execution Time: 2.16447 seconds
+466 466
+OpenMP Execution Time: 2.26505 seconds
+471 471
+OpenMP Execution Time: 2.26264 seconds
+476 476
+OpenMP Execution Time: 2.39524 seconds
+481 481
+OpenMP Execution Time: 2.47162 seconds
+486 486
+OpenMP Execution Time: 2.487 seconds
+491 491
+OpenMP Execution Time: 2.65804 seconds
+496 496
+OpenMP Execution Time: 2.72151 seconds
+501 501
+OpenMP Execution Time: 2.80616 seconds
+506 506
+OpenMP Execution Time: 2.91996 seconds
+511 511
+OpenMP Execution Time: 3.71528 seconds
+516 516
+OpenMP Execution Time: 3.06763 seconds
+521 521
+OpenMP Execution Time: 3.15991 seconds
+526 526
+OpenMP Execution Time: 3.10188 seconds
+531 531
+OpenMP Execution Time: 3.37601 seconds
+536 536
+OpenMP Execution Time: 3.44169 seconds
+541 541
+OpenMP Execution Time: 3.54073 seconds
+546 546
+OpenMP Execution Time: 3.68845 seconds
+551 551
+OpenMP Execution Time: 3.63913 seconds
+556 556
+OpenMP Execution Time: 3.84221 seconds
+561 561
+OpenMP Execution Time: 3.94861 seconds
+566 566
+OpenMP Execution Time: 3.94747 seconds
+571 571
+OpenMP Execution Time: 4.19972 seconds
+576 576
+OpenMP Execution Time: 4.27464 seconds
+581 581
+OpenMP Execution Time: 4.38819 seconds
+586 586
+OpenMP Execution Time: 4.53948 seconds
+591 591
+OpenMP Execution Time: 4.40814 seconds
+596 596
+OpenMP Execution Time: 4.73419 seconds
+601 601
+OpenMP Execution Time: 4.85632 seconds
+606 606
+OpenMP Execution Time: 4.72116 seconds
+611 611
+OpenMP Execution Time: 5.14704 seconds
+616 616
+OpenMP Execution Time: 5.2307 seconds
+621 621
+OpenMP Execution Time: 5.35692 seconds
+626 626
+OpenMP Execution Time: 5.54198 seconds
+631 631
+OpenMP Execution Time: 5.46605 seconds
+636 636
+OpenMP Execution Time: 5.75226 seconds
+641 641
+OpenMP Execution Time: 5.90818 seconds
+646 646
+OpenMP Execution Time: 5.98318 seconds
+651 651
+OpenMP Execution Time: 6.35237 seconds
+656 656
+OpenMP Execution Time: 6.42233 seconds
+661 661
+OpenMP Execution Time: 6.49798 seconds
+666 666
+OpenMP Execution Time: 6.74236 seconds
+671 671
+OpenMP Execution Time: 6.48047 seconds
+676 676
+OpenMP Execution Time: 7.00983 seconds
+681 681
+OpenMP Execution Time: 7.17196 seconds
+686 686
+OpenMP Execution Time: 7.03862 seconds
+691 691
+OpenMP Execution Time: 7.62565 seconds
+696 696
+OpenMP Execution Time: 7.70547 seconds
+701 701
+OpenMP Execution Time: 7.90806 seconds
+706 706
+OpenMP Execution Time: 8.07378 seconds
+711 711
+OpenMP Execution Time: 8.00904 seconds
+716 716
+OpenMP Execution Time: 8.4099 seconds
+721 721
+OpenMP Execution Time: 8.57152 seconds
+726 726
+OpenMP Execution Time: 8.39069 seconds
+731 731
+OpenMP Execution Time: 8.92848 seconds
+736 736
+OpenMP Execution Time: 9.16909 seconds
+741 741
+OpenMP Execution Time: 9.28929 seconds
+746 746
+OpenMP Execution Time: 9.54303 seconds
+751 751
+OpenMP Execution Time: 9.18724 seconds
+756 756
+OpenMP Execution Time: 9.84501 seconds
+761 761
+OpenMP Execution Time: 10.0519 seconds
+766 766
+OpenMP Execution Time: 12.432 seconds
+771 771
+OpenMP Execution Time: 10.5706 seconds
+776 776
+OpenMP Execution Time: 10.6362 seconds
+781 781
+OpenMP Execution Time: 10.8412 seconds
+786 786
+OpenMP Execution Time: 11.1945 seconds
+791 791
+OpenMP Execution Time: 11.0234 seconds
+796 796
+OpenMP Execution Time: 11.3782 seconds
+801 801
+OpenMP Execution Time: 11.4704 seconds
+806 806
+OpenMP Execution Time: 11.4124 seconds
+811 811
+OpenMP Execution Time: 12.0115 seconds
+816 816
+OpenMP Execution Time: 12.1438 seconds
+821 821
+OpenMP Execution Time: 12.3605 seconds
+826 826
+OpenMP Execution Time: 12.6862 seconds
+831 831
+OpenMP Execution Time: 12.2917 seconds
+836 836
+OpenMP Execution Time: 13.0501 seconds
+841 841
+OpenMP Execution Time: 13.3206 seconds
+846 846
+OpenMP Execution Time: 12.9641 seconds
+851 851
+OpenMP Execution Time: 13.9218 seconds
+856 856
+OpenMP Execution Time: 14.087 seconds
+861 861
+OpenMP Execution Time: 14.3113 seconds
+866 866
+OpenMP Execution Time: 14.6972 seconds
+871 871
+OpenMP Execution Time: 14.4274 seconds
+876 876
+OpenMP Execution Time: 15.0271 seconds
+881 881
+OpenMP Execution Time: 15.3007 seconds
+886 886
+OpenMP Execution Time: 15.1504 seconds
+891 891
+OpenMP Execution Time: 16.0236 seconds
+896 896
+OpenMP Execution Time: 16.1647 seconds
+901 901
+OpenMP Execution Time: 16.3803 seconds
+906 906
+OpenMP Execution Time: 16.8721 seconds
+911 911
+OpenMP Execution Time: 16.2493 seconds
+916 916
+OpenMP Execution Time: 17.2708 seconds
+921 921
+OpenMP Execution Time: 17.4983 seconds
+926 926
+OpenMP Execution Time: 17.0775 seconds
+931 931
+OpenMP Execution Time: 18.2635 seconds
+936 936
+OpenMP Execution Time: 18.4381 seconds
+941 941
+OpenMP Execution Time: 19.0127 seconds
+946 946
+OpenMP Execution Time: 19.178 seconds
+951 951
+OpenMP Execution Time: 18.9 seconds
+956 956
+OpenMP Execution Time: 19.8284 seconds
+961 961
+OpenMP Execution Time: 19.9403 seconds
+966 966
+OpenMP Execution Time: 19.7335 seconds
+971 971
+OpenMP Execution Time: 21.0383 seconds
+976 976
+OpenMP Execution Time: 21.0014 seconds
+981 981
+OpenMP Execution Time: 21.2777 seconds
+986 986
+OpenMP Execution Time: 21.8598 seconds
+991 991
+OpenMP Execution Time: 20.9279 seconds
+996 996
+OpenMP Execution Time: 22.2641 seconds
+1001 1001
+OpenMP Execution Time: 22.8528 seconds
+1006 1006
+OpenMP Execution Time: 22.3592 seconds
+1011 1011
+OpenMP Execution Time: 23.9276 seconds
+1016 1016
+OpenMP Execution Time: 24.1333 seconds
+1021 1021
+OpenMP Execution Time: 24.4341 seconds
+1026 1026
+OpenMP Execution Time: 25.3182 seconds
+1031 1031
+OpenMP Execution Time: 26.8454 seconds
+1036 1036
+OpenMP Execution Time: 25.5978 seconds
+1041 1041
+OpenMP Execution Time: 25.5428 seconds
+1046 1046
+OpenMP Execution Time: 26.3033 seconds
+1051 1051
+OpenMP Execution Time: 26.6209 seconds
+1056 1056
+OpenMP Execution Time: 26.7865 seconds
+1061 1061
+OpenMP Execution Time: 27.1657 seconds
+1066 1066
+OpenMP Execution Time: 28.4752 seconds
+1071 1071
+OpenMP Execution Time: 27.3361 seconds
+1076 1076
+OpenMP Execution Time: 28.279 seconds
+1081 1081
+OpenMP Execution Time: 29.3018 seconds
+1086 1086
+OpenMP Execution Time: 28.3779 seconds
+1091 1091
+OpenMP Execution Time: 29.8828 seconds
+1096 1096
+OpenMP Execution Time: 30.3122 seconds
+1101 1101
+OpenMP Execution Time: 31.6543 seconds
+1106 1106
+OpenMP Execution Time: 31.3992 seconds
+1111 1111
+OpenMP Execution Time: 30.5331 seconds
+1116 1116
+OpenMP Execution Time: 32.0063 seconds
+1121 1121
+OpenMP Execution Time: 33.0189 seconds
+1126 1126
+OpenMP Execution Time: 31.8153 seconds
+1131 1131
+OpenMP Execution Time: 33.6172 seconds
+1136 1136
+OpenMP Execution Time: 34.6505 seconds
+1141 1141
+OpenMP Execution Time: 34.5447 seconds
+1146 1146
+OpenMP Execution Time: 35.1702 seconds
+1151 1151
+OpenMP Execution Time: 41.4335 seconds
+1156 1156
+OpenMP Execution Time: 36.6348 seconds
+1161 1161
+OpenMP Execution Time: 36.5037 seconds
+1166 1166
+OpenMP Execution Time: 35.6452 seconds
+1171 1171
+OpenMP Execution Time: 37.6015 seconds
+1176 1176
+OpenMP Execution Time: 37.8868 seconds
+1181 1181
+OpenMP Execution Time: 40.0941 seconds
+1186 1186
+OpenMP Execution Time: 39.3745 seconds
+1191 1191
+OpenMP Execution Time: 38.0967 seconds
+1196 1196
+OpenMP Execution Time: 40.6621 seconds
+1201 1201
+OpenMP Execution Time: 41.3592 seconds
+1206 1206
+OpenMP Execution Time: 40.3256 seconds
+1211 1211
+OpenMP Execution Time: 42.444 seconds
+1216 1216
+OpenMP Execution Time: 43.0112 seconds
+1221 1221
+OpenMP Execution Time: 43.7023 seconds
+1226 1226
+OpenMP Execution Time: 44.5325 seconds
+1231 1231
+OpenMP Execution Time: 42.916 seconds
+1236 1236
+OpenMP Execution Time: 45.2164 seconds
+1241 1241
+OpenMP Execution Time: 46.1647 seconds
+1246 1246
+OpenMP Execution Time: 45.5389 seconds
+1251 1251
+OpenMP Execution Time: 48.449 seconds
+1256 1256
+OpenMP Execution Time: 48.6759 seconds
+1261 1261
+OpenMP Execution Time: 46.8722 seconds
+1266 1266
+OpenMP Execution Time: 49.8569 seconds
+1271 1271
+OpenMP Execution Time: 49.0338 seconds
+1276 1276
+OpenMP Execution Time: 50.8858 seconds
+1281 1281
+OpenMP Execution Time: 51.598 seconds
+1286 1286
+OpenMP Execution Time: 50.4983 seconds
+1291 1291
+OpenMP Execution Time: 53.4962 seconds
+1296 1296
+OpenMP Execution Time: 53.4779 seconds
+1301 1301
+OpenMP Execution Time: 55.5885 seconds
+1306 1306
+OpenMP Execution Time: 56.8514 seconds
+1311 1311
+OpenMP Execution Time: 53.5519 seconds
+1316 1316
+OpenMP Execution Time: 56.7735 seconds
+1321 1321
+OpenMP Execution Time: 56.7661 seconds
+1326 1326
+OpenMP Execution Time: 56.223 seconds
+1331 1331
+OpenMP Execution Time: 58.0239 seconds
+1336 1336
+OpenMP Execution Time: 57.8045 seconds
+1341 1341
+OpenMP Execution Time: 59.3172 seconds
+1346 1346
+OpenMP Execution Time: 68.0698 seconds
+1351 1351
+OpenMP Execution Time: 63.66 seconds
+1356 1356
+OpenMP Execution Time: 68.0361 seconds
+1361 1361
+OpenMP Execution Time: 67.8349 seconds
+1366 1366
+OpenMP Execution Time: 62.4853 seconds
+1371 1371
+OpenMP Execution Time: 71.2838 seconds
+1376 1376
+OpenMP Execution Time: 69.3123 seconds
+1381 1381
+OpenMP Execution Time: 73.4304 seconds
+1386 1386
+OpenMP Execution Time: 67.9338 seconds
+1391 1391
+OpenMP Execution Time: 67.097 seconds
+1396 1396
+OpenMP Execution Time: 80.7033 seconds
+1401 1401
+OpenMP Execution Time: 76.0266 seconds
+1406 1406
+OpenMP Execution Time: 88.6178 seconds
+1411 1411
+OpenMP Execution Time: 79.0948 seconds
+1416 1416
+OpenMP Execution Time: 80.3827 seconds
+1421 1421
+OpenMP Execution Time: 80.1635 seconds
+1426 1426
+OpenMP Execution Time: 85.1207 seconds
+1431 1431
+OpenMP Execution Time: 78.4649 seconds
+1436 1436
+OpenMP Execution Time: 84.7064 seconds
+1441 1441
+OpenMP Execution Time: 86.7917 seconds
+1446 1446
+OpenMP Execution Time: 79.682 seconds
+1451 1451
+OpenMP Execution Time: 88.2317 seconds
+1456 1456
+OpenMP Execution Time: 89.8594 seconds
+1461 1461
+OpenMP Execution Time: 90.6052 seconds
+1466 1466
+OpenMP Execution Time: 90.929 seconds
+1471 1471
+OpenMP Execution Time: 88.241 seconds
+1476 1476
+OpenMP Execution Time: 88.4097 seconds
+1481 1481
+OpenMP Execution Time: 90.6112 seconds
+1486 1486
+OpenMP Execution Time: 87.435 seconds
+1491 1491
+OpenMP Execution Time: 100.624 seconds
+1496 1496
+OpenMP Execution Time: 99.0262 seconds
+1501 1501
+OpenMP Execution Time: 90.7131 seconds
+1506 1506
+OpenMP Execution Time: 93.3437 seconds
+1511 1511
+OpenMP Execution Time: 88.7029 seconds
+1516 1516
+OpenMP Execution Time: 94.5973 seconds
+1521 1521
+OpenMP Execution Time: 95.3728 seconds
+1526 1526
+OpenMP Execution Time: 91.5787 seconds
+1531 1531
+OpenMP Execution Time: 99.3019 seconds
+1536 1536
+OpenMP Execution Time: 100.189 seconds
+1541 1541
+OpenMP Execution Time: 101.224 seconds
+1546 1546
+OpenMP Execution Time: 103.603 seconds
+1551 1551
+OpenMP Execution Time: 97.6713 seconds
+1556 1556
+OpenMP Execution Time: 105.054 seconds
+1561 1561
+OpenMP Execution Time: 106.763 seconds
+1566 1566
+OpenMP Execution Time: 102.275 seconds
+1571 1571
+OpenMP Execution Time: 110.732 seconds
+1576 1576
+OpenMP Execution Time: 111.149 seconds
+1581 1581
+OpenMP Execution Time: 113.096 seconds
+1586 1586
+OpenMP Execution Time: 102.636 seconds
+1591 1591
+OpenMP Execution Time: 107.455 seconds
+1596 1596
+OpenMP Execution Time: 116.276 seconds
+1601 1601
+OpenMP Execution Time: 118.682 seconds
+1606 1606
+OpenMP Execution Time: 111.066 seconds
+1611 1611
+OpenMP Execution Time: 122.752 seconds
+1616 1616
+OpenMP Execution Time: 123.083 seconds
+1621 1621
+OpenMP Execution Time: 124.275 seconds
+1626 1626
+OpenMP Execution Time: 126.767 seconds
+1631 1631
+OpenMP Execution Time: 118.214 seconds
+1636 1636
+OpenMP Execution Time: 128.776 seconds
+1641 1641
+OpenMP Execution Time: 130.07 seconds
+1646 1646
+OpenMP Execution Time: 121.28 seconds
+1651 1651
+OpenMP Execution Time: 134.33 seconds
+1656 1656
+OpenMP Execution Time: 135.149 seconds
+1661 1661
+OpenMP Execution Time: 135.71 seconds
+1666 1666
+OpenMP Execution Time: 138.658 seconds
+1671 1671
+OpenMP Execution Time: 127.977 seconds
+1676 1676
+OpenMP Execution Time: 144.867 seconds
+1681 1681
+OpenMP Execution Time: 158.879 seconds
+1686 1686
+OpenMP Execution Time: 138.898 seconds
+1691 1691
+OpenMP Execution Time: 162.807 seconds
+1696 1696
+OpenMP Execution Time: 163.93 seconds
+1701 1701
+OpenMP Execution Time: 165.464 seconds
+1706 1706
+OpenMP Execution Time: 168.075 seconds
+1711 1711
+OpenMP Execution Time: 145.436 seconds
+1716 1716
+OpenMP Execution Time: 170.099 seconds
+1721 1721
+OpenMP Execution Time: 154.967 seconds
+1726 1726
+OpenMP Execution Time: 160.19 seconds
+1731 1731
+OpenMP Execution Time: 160.343 seconds
+1736 1736
+OpenMP Execution Time: 159.874 seconds
+1741 1741
+OpenMP Execution Time: 162.049 seconds
+1746 1746
+OpenMP Execution Time: 164.949 seconds
+1751 1751
+OpenMP Execution Time: 150.33 seconds
+1756 1756
+OpenMP Execution Time: 166.248 seconds
+1761 1761
+OpenMP Execution Time: 168.079 seconds
+1766 1766
+OpenMP Execution Time: 144.204 seconds
+1771 1771
+OpenMP Execution Time: 173.972 seconds
+1776 1776
+OpenMP Execution Time: 174.72 seconds
+1781 1781
+OpenMP Execution Time: 175.97 seconds
+1786 1786
+OpenMP Execution Time: 180.972 seconds
+1791 1791
+OpenMP Execution Time: 218.843 seconds
+1796 1796
+OpenMP Execution Time: 183.881 seconds
+1801 1801
+OpenMP Execution Time: 184.905 seconds
+1806 1806
+OpenMP Execution Time: 167.182 seconds
+1811 1811
+OpenMP Execution Time: 189.179 seconds
+1816 1816
+OpenMP Execution Time: 189.373 seconds
+1821 1821
+OpenMP Execution Time: 188.999 seconds
+1826 1826
+OpenMP Execution Time: 194.066 seconds
+1831 1831
+OpenMP Execution Time: 174.395 seconds
+1836 1836
+OpenMP Execution Time: 195.752 seconds
+1841 1841
+OpenMP Execution Time: 198.066 seconds
+1846 1846
+OpenMP Execution Time: 179.145 seconds
+1851 1851
+OpenMP Execution Time: 202.825 seconds
+1856 1856
+OpenMP Execution Time: 202.712 seconds
+1861 1861
+OpenMP Execution Time: 205.135 seconds
+1866 1866
+OpenMP Execution Time: 212.917 seconds
+1871 1871
+OpenMP Execution Time: 190.925 seconds
+1876 1876
+OpenMP Execution Time: 217.488 seconds
+1881 1881
+OpenMP Execution Time: 218.159 seconds
+1886 1886
+OpenMP Execution Time: 197.069 seconds
+1891 1891
+OpenMP Execution Time: 219.449 seconds
+1896 1896
+OpenMP Execution Time: 218.955 seconds
+1901 1901
+OpenMP Execution Time: 195.998 seconds
+1906 1906
+OpenMP Execution Time: 224.91 seconds
+1911 1911
+OpenMP Execution Time: 199.531 seconds
+1916 1916
+OpenMP Execution Time: 226.716 seconds
+1921 1921
+OpenMP Execution Time: 230.342 seconds
+1926 1926
+OpenMP Execution Time: 206.556 seconds
+1931 1931
+OpenMP Execution Time: 235.26 seconds
+1936 1936
+OpenMP Execution Time: 236.407 seconds
+1941 1941
+OpenMP Execution Time: 238.814 seconds
+1946 1946
+OpenMP Execution Time: 243.471 seconds
+1951 1951
+OpenMP Execution Time: 218.765 seconds
+1956 1956
+OpenMP Execution Time: 246.758 seconds
+1961 1961
+OpenMP Execution Time: 246.653 seconds
+1966 1966
+OpenMP Execution Time: 219.886 seconds
+1971 1971
+OpenMP Execution Time: 249.965 seconds
+1976 1976
+OpenMP Execution Time: 251.793 seconds
+1981 1981
+OpenMP Execution Time: 254.197 seconds
+1986 1986
+OpenMP Execution Time: 259.219 seconds
+1991 1991
+OpenMP Execution Time: 229.348 seconds
+1996 1996
+OpenMP Execution Time: 259.825 seconds
+2001 2001
+OpenMP Execution Time: 261.675 seconds
+2006 2006
+OpenMP Execution Time: 235.414 seconds
+2011 2011
+OpenMP Execution Time: 231.47 seconds
+2016 2016
+OpenMP Execution Time: 270.308 seconds
+2021 2021
+OpenMP Execution Time: 271.357 seconds
+2026 2026
+OpenMP Execution Time: 276.562 seconds
+2031 2031
+OpenMP Execution Time: 243.629 seconds
+2036 2036
+OpenMP Execution Time: 279.124 seconds
+2041 2041
+OpenMP Execution Time: 281.699 seconds
+2046 2046
+OpenMP Execution Time: 342.113 seconds
+2051 2051
+OpenMP Execution Time: 287.934 seconds
+2056 2056
+OpenMP Execution Time: 287.739 seconds
+2061 2061
+OpenMP Execution Time: 289.997 seconds
+2066 2066
+OpenMP Execution Time: 294.543 seconds
+2071 2071
+OpenMP Execution Time: 260.574 seconds
+2076 2076
+OpenMP Execution Time: 296.231 seconds
+2081 2081
+OpenMP Execution Time: 300.111 seconds
+2086 2086
+OpenMP Execution Time: 266.625 seconds
+2091 2091
+OpenMP Execution Time: 308.089 seconds
+2096 2096
+OpenMP Execution Time: 306.449 seconds
+2101 2101
+OpenMP Execution Time: 282.624 seconds
+2106 2106
+OpenMP Execution Time: 312.818 seconds
+2111 2111
+OpenMP Execution Time: 341.165 seconds
+2116 2116
+OpenMP Execution Time: 316.651 seconds
+2121 2121
+OpenMP Execution Time: 317.045 seconds
+2126 2126
+OpenMP Execution Time: 282.439 seconds
+2131 2131
+OpenMP Execution Time: 323.461 seconds
+2136 2136
+OpenMP Execution Time: 326.142 seconds
+2141 2141
+OpenMP Execution Time: 333.595 seconds
+2146 2146
+OpenMP Execution Time: 340.09 seconds
+2151 2151
+OpenMP Execution Time: 295.452 seconds
+2156 2156
+OpenMP Execution Time: 335.86 seconds
+2161 2161
+OpenMP Execution Time: 339.1 seconds
+2166 2166
+OpenMP Execution Time: 297.469 seconds
+2171 2171
+OpenMP Execution Time: 344.938 seconds
+2176 2176
+OpenMP Execution Time: 347.071 seconds
+2181 2181
+OpenMP Execution Time: 318.903 seconds
+2186 2186
+OpenMP Execution Time: 355.045 seconds
+2191 2191
+OpenMP Execution Time: 312.393 seconds
+2196 2196
+OpenMP Execution Time: 359.005 seconds
+2201 2201
+OpenMP Execution Time: 358.421 seconds
+2206 2206
+OpenMP Execution Time: 329.814 seconds
+2211 2211
+OpenMP Execution Time: 367.043 seconds
+2216 2216
+OpenMP Execution Time: 365.244 seconds
+2221 2221
+OpenMP Execution Time: 369.416 seconds
+2226 2226
+OpenMP Execution Time: 375.31 seconds
+2231 2231
+OpenMP Execution Time: 327.947 seconds
+2236 2236
+OpenMP Execution Time: 384.554 seconds
+2241 2241
+OpenMP Execution Time: 392.854 seconds
+2246 2246
+OpenMP Execution Time: 340.73 seconds
+2251 2251
+OpenMP Execution Time: 395.242 seconds
+2256 2256
+OpenMP Execution Time: 388.066 seconds
+2261 2261
+OpenMP Execution Time: 390.652 seconds
+2266 2266
+OpenMP Execution Time: 395.397 seconds
+2271 2271
+OpenMP Execution Time: 364.333 seconds
+2276 2276
+OpenMP Execution Time: 398.725 seconds
+2281 2281
+OpenMP Execution Time: 400.297 seconds
+2286 2286
+OpenMP Execution Time: 355.462 seconds
+2291 2291
+OpenMP Execution Time: 411.191 seconds
+2296 2296
+OpenMP Execution Time: 410.058 seconds
+2301 2301
+OpenMP Execution Time: 411.769 seconds
+2306 2306
+OpenMP Execution Time: 418.894 seconds
+2311 2311
+OpenMP Execution Time: 364.743 seconds
+2316 2316
+OpenMP Execution Time: 420.859 seconds
+2321 2321
+OpenMP Execution Time: 375.137 seconds
+2326 2326
+OpenMP Execution Time: 373.579 seconds
+2331 2331
+OpenMP Execution Time: 433.745 seconds
+2336 2336
+OpenMP Execution Time: 433.231 seconds
+2341 2341
+OpenMP Execution Time: 437.072 seconds
+2346 2346
+OpenMP Execution Time: 449.341 seconds
+2351 2351
+OpenMP Execution Time: 390.661 seconds
+2356 2356
+OpenMP Execution Time: 449.77 seconds
+2361 2361
+OpenMP Execution Time: 448.274 seconds
+2366 2366
+OpenMP Execution Time: 502.691 seconds
+2371 2371
+OpenMP Execution Time: 458.589 seconds
+2376 2376
+OpenMP Execution Time: 457.378 seconds
+2381 2381
+OpenMP Execution Time: 403.604 seconds
+2386 2386
+OpenMP Execution Time: 470.967 seconds
+2391 2391
+OpenMP Execution Time: 407.25 seconds
+2396 2396
+OpenMP Execution Time: 469.78 seconds
+2401 2401
+OpenMP Execution Time: 474.138 seconds
+2406 2406
+OpenMP Execution Time: 412.881 seconds
+2411 2411
+OpenMP Execution Time: 481.516 seconds
+2416 2416
+OpenMP Execution Time: 482.369 seconds
+2421 2421
+OpenMP Execution Time: 488.861 seconds
+2426 2426
+OpenMP Execution Time: 501.545 seconds
+2431 2431
+OpenMP Execution Time: 573.187 seconds
+2436 2436
+OpenMP Execution Time: 438.642 seconds
+2441 2441
+OpenMP Execution Time: 494.344 seconds
+2446 2446
+OpenMP Execution Time: 437.681 seconds
+2451 2451
+OpenMP Execution Time: 507.225 seconds
+2456 2456
+OpenMP Execution Time: 506.38 seconds
+2461 2461
+OpenMP Execution Time: 512.154 seconds
+2466 2466
+OpenMP Execution Time: 520.942 seconds
+2471 2471
+OpenMP Execution Time: 448.983 seconds
+2476 2476
+OpenMP Execution Time: 518.782 seconds
+2481 2481
+OpenMP Execution Time: 526.834 seconds
+2486 2486
+OpenMP Execution Time: 436.893 seconds
+2491 2491
+OpenMP Execution Time: 532.281 seconds
+2496 2496
+OpenMP Execution Time: 534.516 seconds
