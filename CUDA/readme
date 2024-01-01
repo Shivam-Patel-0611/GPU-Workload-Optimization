@@ -1,1 +1,1 @@
-This Folder has source code which was used to check performance analysis using CUDA in GPU. It also has output as well as script file.
+<h2>This folder contains the source code used to analyze the performance of matrix multiplication using CUDA on a GPU. Inside, you'll find the output generated during the analysis, along with the script file that was utilized for the process.</h2>
