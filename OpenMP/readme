@@ -1,1 +1,1 @@
-This Folder has source code which was used to check performance analysis using parallel programming approach on CPU. It also has output as well as script file.
+This folder contains the source code used to analyze the performance of matrix multiplication using OpenMP on a CPU. Inside, you'll find the output generated during the analysis, along with the script file that was utilized for the process.
